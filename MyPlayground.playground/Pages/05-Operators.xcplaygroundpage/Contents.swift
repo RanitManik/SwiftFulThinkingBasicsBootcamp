@@ -79,5 +79,18 @@ if likeCount > 3 && (commentCount > 0 || viewCount > 50) {
     print("EXECUTE 2")
 }
 
+// Nested if-else Statements
+if likeCount > 5 {
+    print("Like Count > 5")
+} else if likeCount > 2 {
+    print("Like Count > 2")
+} else if userIsPremium {
+    print("User is Premium")
+} else {
+    print("else Statement")
+}
+
+
+
 
 
