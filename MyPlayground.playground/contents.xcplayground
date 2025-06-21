@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<playground target-platform="ios" version="7.0" swift-version="6" requires-full-environment="false">
+<playground requires-full-environment="false" version="7.0" swift-version="6" target-platform="ios">
     <pages>
         <page name="01-SwiftBasics"/>
         <page name="02-BasicTypes"/>
         <page name="03-Variables"/>
         <page name="04-If else Statements"/>
+        <page name="05-Operators"/>
     </pages>
 </playground>
